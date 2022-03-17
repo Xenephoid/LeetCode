@@ -1,2 +1,2 @@
 # LeetCode
-Kevin Zhao's solutions to problems on LeetCode that are nontrivial
+Kevin Zhao's solutions to problems on LeetCode
