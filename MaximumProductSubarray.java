@@ -36,7 +36,7 @@ public class MaximumProductSubarray {
 	        return max;
 	    }
 	    public static int maxArray(int[] nums){
-	    	//if the number of negatives is even, the final result of all the products will be even
+	    	//if the number of negatives is even, the final result of all the products will be positive
 	    	//if the number of negatives is odd, the greatest result can be found by either excluding
 	    	//the first negative and everything to its left of the last negative and everything to its 
 	    	//right, since every entry is an integer that's absolute value is greater than or equal to 1
